@@ -5,7 +5,7 @@ It requires some permission editing
 
 # Proceed at your own risk
 
-Step 1: Install the mod and shit. If you dont know how to do this please go to the Steammodded page.
+Step 1: Download the code and install the mod and shit. If you dont know how to do this please go to the Steammodded page.
 
 Step 2: Go to C:\Windows and... bear with me here
 
