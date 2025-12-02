@@ -1,0 +1,13 @@
+{
+    "id": "Balatroware",
+    "name": "Balatroware",
+    "author": ["nyx"],
+    "description": "Turning a fun Roguelike into Malware",
+    "prefix": "ware",
+    "main_file": "balatroware.lua",
+    "badge_colour": "000000",
+    "dependencies": [
+        "Steamodded (>=1.0.0~BETA-0827c)"
+    ],
+    "version": "0.0.1"
+}
