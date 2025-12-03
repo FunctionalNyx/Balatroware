@@ -17,6 +17,6 @@ Step 5: Put 'Administrators' in the object name then click 'Check Names'
 
 Step 6: Then press okay and apply or whatever and stuff. A window should pop up and if there are any errors probably disregard them it should be okaaaay
 
-Step 7: Edit permissions and allow full control to uhh well everything. (I'll eventually figure out what exactly the mod fall under) (Probably System)
+Step 7: Edit permissions and allow full control to Users
 
-Step 8: Click apply and launch the mod. And Hopefully you're doing this on a virtual machine because god cant save you now
+Step 8: Click apply and launch the mod. And hopefully you're doing this on a virtual machine because god cant save you now
