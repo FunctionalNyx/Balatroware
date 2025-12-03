@@ -17,6 +17,15 @@ for file in p:lines() do                    --Loop through all files
     i = i + 1
 end
 
+if SMODS.Atlas then
+  SMODS.Atlas({
+    key = "modicon",
+    path = "icon.png",
+    px = 32,
+    py = 32
+  })
+end
+
 SMODS.Sound({
 	key = "music_cursed",
 	path = "music_cursed.ogg",
