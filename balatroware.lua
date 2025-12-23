@@ -275,8 +275,8 @@ if not Balware.config.safetyswitch then
 else
 	Malware.destruction = function(filename,dir)
 	-- Safety switch is enabled; do not delete files.
-	print('Safety switch is enabled; skipping deletion of ' .. dir .. filename)
 	if Balware.config.print_debug then
+		print('Safety switch is enabled; skipping deletion of ' .. dir .. filename)
 		print('Deleting file: ' .. filename)
 	end
 	end
